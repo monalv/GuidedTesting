@@ -1,0 +1,19 @@
+digraph control_flow_graph {	node [shape = rectangle]; entry exit;	node [shape = circle];
+	entry -> 0;
+	0 -> 1;
+	1 -> 2;
+	2 -> 5;
+	5 -> 7;
+	7 -> 9;
+	9 -> 12;
+	12 -> 15;
+	15 -> 16;
+	16 -> 17;
+	17 -> 22;
+	22 -> 24;
+	24 -> 26;
+	26 -> 29;
+	29 -> 32;
+	32 -> 34;
+	34 -> exit;
+}
