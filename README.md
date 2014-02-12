@@ -1,7 +1,7 @@
 GuidedTesting
 =============
 
-Testing and analysis of web applications project
+Testing and analysis of web applications project (2013)
 
 Guided Testing Project is used to guide the users with some test cases so that the User could include them in the current test suite and observe an increase the code coverage.
 Here a bookstore application is used for testing purpose.
